@@ -1,4 +1,4 @@
-# Hi, I'm Om Nalage 👋
+# Hi, I'm Om Ashok Nalage 👋
 
 ### 🚀 Computer Science Student & Systems Enthusiast
 I am a developer focused on low-level systems and AI-driven applications. Currently working on **Game Theory for Agentic Software Ecosystems**.
@@ -15,4 +15,8 @@ I am a developer focused on low-level systems and AI-driven applications. Curren
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=omnalage&show_icons=true&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=omnalage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Om's GitHub stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnalage&layout=compact&theme=tokyonight&hide_border=true" alt="Om's Top Languages" />
+</p>
