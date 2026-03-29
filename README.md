@@ -16,7 +16,7 @@ I am a developer focused on low-level systems and AI-driven applications. Curren
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=omnalage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Om's GitHub stats" />
+<img src="[Om's Stats](https://github-readme-stats.vercel.app/api?username=omnalage&show_icons=true&theme=tokyonight)" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnalage&layout=compact&theme=tokyonight&hide_border=true" alt="Om's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnalage&layout=compact&theme=tokyonight" />
 </p>
